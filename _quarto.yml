@@ -1,0 +1,20 @@
+project:
+  output-dir: docs  
+
+website:
+  navbar:
+    title: "Gapminder Analysis"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Life Expectancy and GDP"
+        href: life-gdp.qmd
+      - text: "Life Expectancy and Population"
+        href: life-population.qmd
+      - text: "Country Analysis"
+        href: country.qmd
+        
+theme: vapor
+
+
+
