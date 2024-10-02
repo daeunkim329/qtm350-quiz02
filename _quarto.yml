@@ -6,13 +6,13 @@ website:
     title: "Gapminder Analysis"
     left:
       - text: "Home"
-        href: index.html  # Should link to index.html
+        href: index.html  
       - text: "Life Expectancy and GDP"
-        href: life-gdp.html  # Should link to life-gdp.html
+        href: life-gdp.html  
       - text: "Life Expectancy and Population"
-        href: life-population.html  # Should link to life-population.html
+        href: life-population.html  
       - text: "Country Analysis"
-        href: country.html  # Should link to country.html
+        href: country.html  
 css: styles.css 
 theme: vapor 
 
