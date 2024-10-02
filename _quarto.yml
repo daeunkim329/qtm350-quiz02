@@ -13,8 +13,8 @@ website:
         href: life-population.qmd
       - text: "Country Analysis"
         href: country.qmd
-  css: styles.css  # Add custom CSS
-  theme: vapor  # Add theme
+  css: styles.css 
+  theme: vapor 
 
 
 
